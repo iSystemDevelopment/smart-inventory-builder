@@ -2,7 +2,7 @@
 
 **Enterprise-grade inventory management system built by iSystem Development as a bespoke solution for GSL Power Ltd.**
 
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Google%20Apps%20Script-blue.svg)](https://developers.google.com/apps-script)
 [![Status](https://img.shields.io/badge/status-Production%20Ready-success.svg)](https://github.com/iSystemDevelopment/smart-inventory-builder)
 
